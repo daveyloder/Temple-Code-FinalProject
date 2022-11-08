@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-- TV/TV Mount Compadibility Tool using Python
+- TV/TV Mount Compatibility Tool using Python
 
 - Open-Source Field Work Order App using React-Native, AppSheet, or Amazon Honeycode.
 
