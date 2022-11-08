@@ -13,7 +13,7 @@
 - Tony Siu (for game skill tree plan)<br/>
 
 * Michele Connors (for universal workorder idea) <br/>
-* Issiah Thomas (for universal workorder idea) <br/>
+* Isiah Thomas (for universal workorder idea) <br/>
 * yeptiz (for universal workorder idea) <br/>
 * Mcberger (for universal workorder idea) <br/>
 
