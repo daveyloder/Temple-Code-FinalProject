@@ -10,11 +10,11 @@ Video Game themed Skill Tree for students class track
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Tony Siu (for game skill tree plan) return
-Elle (for universal workorder idea) return
-Issiah Thomas (for universal workorder idea) return
-yeptiz (for universal workorder idea) return
-Mcberger (for universal workorder idea) return
+Tony Siu (for game skill tree plan)<br/>
+Elle (for universal workorder idea) <br/>
+Issiah Thomas (for universal workorder idea) <br/>
+yeptiz (for universal workorder idea) <br/>
+Mcberger (for universal workorder idea) <br/>
 
 ## Do you have any questions of your own?
 
