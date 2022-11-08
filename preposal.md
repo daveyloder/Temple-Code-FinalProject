@@ -4,7 +4,11 @@
 
 - TV/TV Mount Compatibility Tool using Python
 
-- Open-Source Field Work Order App using React-Native, AppSheet, or Amazon Honeycode.
+- Open-Source Field Work Order App using React-Native, AirTable, AppSheet, or Amazon Honeycode.
+
+  - Create a universal work order app to use in the open-source market
+  - Practice the process of DevOps and simulate a working enviroment.
+  - Perform research about similar products and how this app can solve problems that other services cannot.
 
 - Video Game themed Skill Tree for students class track
 
@@ -13,9 +17,8 @@
 - Tony Siu (for game skill tree plan)<br/>
 
 * Michele Connors (for universal workorder idea) <br/>
-* Isiah Thomas (for universal workorder idea) <br/>
-* yeptiz (for universal workorder idea) <br/>
-* Mcberger (for universal workorder idea) <br/>
+* Isiah Thomas (for universal workorder idea) <br/> MIA
+* yeptiz (for universal workorder idea) <br/> MIA
 
 ## Do you have any questions of your own?
 
