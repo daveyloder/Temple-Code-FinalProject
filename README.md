@@ -16,6 +16,7 @@
     - email
     - password - Google
     - role - User, Admin - **Requires Attention**
+      - Flow of what admin user does and regular user does
   - Work Order Database - **Complete**
     - WorkID - Random Numbers
     - Customer Name
@@ -27,12 +28,38 @@
     - User Assigned
     - Task
     - Notes
+- App UI
+
+  - Admin Views
+    - Assigned Orders to Users
+    - Unassigned Orders
+    - Order History By User
+      - Group by User
+      - Sort By complete date
+    - Issue Orders by User
+      - Orders marked as issue
+      - User still assigned
+      - Reschedule Button
+        - Copies work order and makes new Work Order ID
+        - Sets status to unassigned and move order to "Unassigned Orders"
+  - User Views
+    - My Orders
+      - Issue Buttom
+        - Prompts for notes
+        - Marks Status as issue
+        - Keeps user assigned for Admin action
+    - Completed Order History
+      - All orders completed by user
+
 - App needs to accomplish key goals
   - Assign work orders to users.
   - Be able to complete work orders
     - Requirements for work order completion?
-      - Complete - True/False
-      - Notes - notes must be present.
+      - Complete - True/False - Button
+      - Signature if needed
+      - Signature = True/False
+      - Date of completion
+      - Notes required
     - Able to complete order and what data needs to be changed upon completion.
       - Changed Data
 
@@ -50,11 +77,16 @@
     - Customer Phone Number
     - Appointment Start - start time
     - Appointment End - end time
+      - Admin Assigns User at time of scheduling
     - Status
     - User Assigned
     - Task
     - Notes
+    - Customer Sigature
+    - User Start time
+    - User End time
 - App UI - **In-Progress**
-  - Unassigned Orders
+  - Unassigned Orders - Deck View
     - User View
     - Admin View
+  - My Orders - Calendar View
