@@ -11,8 +11,7 @@
 ## If you plan to collaborate with one or two classmates, what are their names?
 
 - Michele Connors (for universal workorder idea) <br/>
-- Isiah Thomas (for universal workorder idea) <br/> MIA
-- yeptiz (for universal workorder idea) <br/> MIA
+- Isiah Thomas (for universal workorder idea) <br/>
 
 ## Do you have any questions of your own?
 
