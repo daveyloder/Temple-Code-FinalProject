@@ -9,14 +9,14 @@
 
 ## Step 1 - Plan
 
-- Decide framework to develop app on - AppSheet
+- Decide framework to develop app on - Chose AppSheet - **Complete**
 - Organize what data is needed and how it will be stored and organized.
-  - User Database - Complete
+  - User Database - **Complete**
     - First, Last name
     - email
     - password - Google
-    - role - User, Admin
-  - Work Order Database - In Progress
+    - role - User, Admin - **Requires Attention**
+  - Work Order Database - **Complete**
     - WorkID - Random Numbers
     - Customer Name
     - Customer Address
@@ -37,3 +37,24 @@
       - Changed Data
 
 ## Step 2 - Code
+
+- User Database - **In Progress**
+  - First, Last name - **Requires Attention**
+  - email - **Requires Attention**
+  - password - Google - **Complete**
+  - role - User, Admin - **Requires Attention**
+  - Work Order Database - **In Progress**
+    - WorkID - Random Numbers
+    - Customer Name
+    - Customer Address
+    - Customer Phone Number
+    - Appointment Start - start time
+    - Appointment End - end time
+    - Status
+    - User Assigned
+    - Task
+    - Notes
+- App UI - **In-Progress**
+  - Unassigned Orders
+    - User View
+    - Admin View
