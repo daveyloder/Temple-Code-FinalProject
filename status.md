@@ -2,8 +2,8 @@
 
 #### Your name
 
-David Loder
-Michelle Connors
+David Loder <br/>
+Michelle Connors<br/>
 Isaiah Thomas
 
 #### Your section leader's name
