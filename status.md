@@ -59,3 +59,7 @@ David
 
 - Ran into issues with assigning multiple task to a work order during creation. This was because of how the app references other items on another database. This is an issue that is just with AppSheet and it's platform and if future support is continued it will be changed if migrated to a different framework or source-code.
 - Issues with UI landing back on completed order after order was completed. Was not able to figure out why until finding that in AppSheet there is a feature to redirect user to a different screen view after form submition.
+
+Michelle
+
+- Difficult researching the different companies creating similiar apps. Most apps researched were for individual buisness models so it was hard finding apps that had universal tasks similiar to ours.
